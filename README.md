@@ -1,6 +1,6 @@
 # ONNX converter for cumulative binning transformer
 
-![Alt text](graph.png){:width="700px"}
+![Alt text](graph.png)
 
 ## Install dependencies
 
