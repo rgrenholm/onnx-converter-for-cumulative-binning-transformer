@@ -1,7 +1,7 @@
 # ONNX converter for cumulative binning transformer
 
 <div align="center">
-  <img src="graph.png" width="140px">
+  <img src="graph.png" width="300px">
 
 </div>
 
